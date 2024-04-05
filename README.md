@@ -7,12 +7,21 @@
 - Crear Usuario
 - Login (AuthUser)
 
-### Modulo de Employes
+
+### Modulo de Employes one employe by one department-relation
 **Funciones**
 - Create Employe
 - Update Employe
 - Show List Employes
 - Delete Employe
+
+
+### Modulo de Departments
+**Funciones**
+- Create Department
+- Update Department
+- Show List Departments
+- Delete Department
 
 
 
